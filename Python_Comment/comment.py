@@ -1,10 +1,3 @@
-if 5 > 2:
- print("Five is greater than two!")
-
-# variables in python
-x = 5
-y = "Hello, World!"
-
 #This is a comment.
 print("Good morning Test")
 
