@@ -51,3 +51,5 @@ fruits = ["apple", "banana", "cherry"]
 
 my_function(fruits)
 
+
+
