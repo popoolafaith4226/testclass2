@@ -13,6 +13,9 @@ You can pass data, known as parameters, into a function.
 
 A function can return data as a result.
 
+Functions are block of reusable codes 
+setting a data to a function 
+
 
 ##python classes and object 
 Python is an object oriented programming language.
